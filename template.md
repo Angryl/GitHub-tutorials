@@ -18,6 +18,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Programming**
+- 👀 I’m interested in **Computers**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
 - 💬 Ask me about Anything [here](rudrapratap138@gmail.com)! I am happy to help.
