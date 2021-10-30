@@ -30,7 +30,7 @@
 
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=angryl" alt="angryl" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Angryl" alt="angryl"/>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/angryl?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/angryl?label=Stars" alt="Total Stars">
 </p>
